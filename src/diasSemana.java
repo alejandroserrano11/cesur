@@ -104,5 +104,7 @@ public class diasSemana {
 			mesaño = mesaño + 1;
 		}
 
+		teclado.close();
 	}
+	
 }
