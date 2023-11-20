@@ -55,10 +55,10 @@ public class contador_inverso {
 		salto = teclado.nextInt();
 
 		System.out.println();
-		
+
 		for (int x = maximo; x >= minimo; x = x - salto) {
 			System.out.print(x + " ");
 		}
-
+		teclado.close();
 	}
 }
