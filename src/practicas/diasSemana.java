@@ -1,40 +1,28 @@
-
-
+package practicas;
 
 import java.util.Scanner;
-
-
-
-
 
 public class diasSemana {
 	public static void main(String[] args) {
 
 		Scanner teclado = new Scanner(System.in);
-	
-		
-		
+
 		int diaSemana = 0;
 		int semana = 0;
 		int mesaño = 0;
 		int totalDia = 0;
 		int mesCompleto = 0;
 		int mesIncompleto = 0;
-		
+
 		System.out.print("Introduce un número entre 1 y 336: ");
 		totalDia = teclado.nextInt();
-		
-		
-		
-		mesCompleto = (totalDia/28);
-		
-		mesIncompleto = (totalDia - (mesCompleto*28));
-		
-		
-		
-		
-		while (mesaño < mesCompleto-1) {
-			
+
+		mesCompleto = (totalDia / 28);
+
+		mesIncompleto = (totalDia - (mesCompleto * 28));
+
+		while (mesaño < mesCompleto - 1) {
+
 			switch (mesaño) {
 			case 0:
 				System.out.print("Enero ");
@@ -106,5 +94,5 @@ public class diasSemana {
 
 		teclado.close();
 	}
-	
+
 }

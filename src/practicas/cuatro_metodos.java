@@ -1,3 +1,4 @@
+package practicas;
 
 import java.util.Scanner;
 
@@ -7,7 +8,9 @@ public class cuatro_metodos {
 	static int[] arrayEnteros = new int[TOTALNUM];
 
 	public static void main(String[] args) {
-		valoresDesde(4);
+		int numero = 3;
+		valoresDesde(numero);
+		System.out.println(numero);
 
 	}
 

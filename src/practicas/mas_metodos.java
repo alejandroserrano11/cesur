@@ -1,3 +1,4 @@
+package practicas;
 
 public class mas_metodos {
 

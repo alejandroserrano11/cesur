@@ -1,3 +1,4 @@
+package practicas;
 //vamos a ir de 1200 a 620 contando de 20 en 20 usando while, do while y for
 
 import java.util.Scanner;

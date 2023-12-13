@@ -1,15 +1,16 @@
+package practicas;
 
 public class loko {
 
 	public static void main(String[] args) {
 		String[] cadenaInicial = new String[10];
-		for (int i=0; i<3; i++) {
+		for (int i = 0; i < 4; i++) {
 			cadenaInicial[i] = "hola";
 		}
 		ListaFijaCadena cadena1;
-		cadena1 = new ListaFijaCadena(3,cadenaInicial);
+		cadena1 = new ListaFijaCadena(5, cadenaInicial);
 		System.out.println("num elementos: " + cadena1.getNumElementos());
-		for (int i = 0; i<cadena1.getNumElementos(); i++) {
+		for (int i = 0; i < cadena1.getNumElementos(); i++) {
 			System.out.println(cadena1.getArray()[i]);
 		}
 		// Crear ListaFijaCadena
@@ -20,7 +21,7 @@ public class loko {
 
 } // end of loko
 
-class ListaFijaCadena { // ahora va ser inmutable.
+class ListaFijaCadena { // ahora va a ser inmutable.
 	// atributos:
 
 	// numero de elementos
@@ -31,13 +32,11 @@ class ListaFijaCadena { // ahora va ser inmutable.
 
 	// MAXNUM de elementos
 	private static final int MAXNUM = 10;
-	
-	
-	
+
 	// metodos:
-	
+
 	// setter y getter de cada atributo
-	
+
 	public int getNumElementos() {
 		return numElementos;
 	}
@@ -58,15 +57,11 @@ class ListaFijaCadena { // ahora va ser inmutable.
 		return MAXNUM;
 	}
 
+	// constructor con parametros de todos sus atributos
+
 	public ListaFijaCadena(int numElementos, String[] array) {
 		this.numElementos = numElementos;
 		this.array = array;
 	}
 
-	
-	
-	// constructor con parametros de todos sus atributos
-
-
-	
 }

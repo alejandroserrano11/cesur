@@ -1,3 +1,4 @@
+package practicas;
 
 import java.util.Scanner;
 
@@ -48,5 +49,7 @@ public class metodos {
 		}
 
 	}
+	
+	static void comprobarValoresCorrectos()
 
 }
