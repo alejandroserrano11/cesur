@@ -12,7 +12,7 @@ public class Avion {
 	//metodo
 	
 	public void mostrarAvion() {
-		
+		System.out.println(idAvion + ", " + modAvion + ", " + capAvion + "huecos, " + piloto);
 	}
 
 	//constructor

@@ -12,6 +12,7 @@ public class Piloto {
 	//metodo
 	
 	public void mostrarPiloto() {
+		System.out.println(idPiloto + ", " + nomPiloto + ", " + horasVueloPiloto + " horas de vuelo, " + rangoPiloto);
 		
 	}
 
@@ -51,11 +52,11 @@ public class Piloto {
 		this.horasVueloPiloto = horasVueloPiloto;
 	}
 
-	public int getRangoPiloto() {
+	public String getRangoPiloto() {
 		return rangoPiloto;
 	}
 
-	public void setRangoPiloto(int rangoPiloto) {
+	public void setRangoPiloto(String rangoPiloto) {
 		this.rangoPiloto = rangoPiloto;
 	}
 	
