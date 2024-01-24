@@ -9,10 +9,16 @@ public class Avion {
 	private int capAvion;
 	Piloto piloto;
 	
+	
 	//metodo
 	
-	public void mostrarAvion() {
-		System.out.println(idAvion + ", " + modAvion + ", " + capAvion + "huecos, " + piloto);
+	public void mostrarAvionEntrenamiento() {
+		System.out.println("Avión de entrenamiento, " + idAvion + ", " + modAvion + ", " + capAvion + " huecos, " + "piloto: ");
+		piloto.mostrarPiloto();
+	}
+	public void mostrarAvionCombate() {
+		System.out.println("Avión de combate, " + idAvion + ", " + modAvion + ", " + capAvion + " huecos, " + "piloto: ");
+		piloto.mostrarPiloto();
 	}
 
 	//constructor
