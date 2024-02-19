@@ -1,13 +1,29 @@
 package animales;
-
+import java.util.Random;
 public class UsoAnimales {
 
 	public static void main(String[] args) {
-		Mamifero perro = new Mamifero("perro",15, true);
-		Insecto hormiga = new Insecto("hormiga",1,false,true,"oso hormiguero");
-		System.out.println("El animal: "+hormiga.getNombre()+ " tiene alas?: "+ hormiga.isAlas());
-		System.out.println(hormiga.getNombre()+" tiene de enemigo a: "+ 
-		hormiga.getEnemigo().getNombre());
+		//crear array de 10 enteros que se llame enteros
+		
+		Random aleatorio = new Random();
+		int[] enteros;
+		enteros = new int[10];
+		for (int i=0; i<enteros.length; i++) {
+			enteros[i] = aleatorio.nextInt(10);
+		}
+				
+		int numero = aleatorio.nextInt(10);
+		
+		//quiero buscar numero en el array.
+		
+		boolean encontrado = false;
+		for (int i=0; i<enteros.length; i++) {
+			if (enteros[i] == numero) {
+				encontrado = true;
+			}
+		}
+		
+		System.out.println("Encontrado "+ numero+":"+encontrado);
 	}
 
 }
