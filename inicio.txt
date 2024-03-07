@@ -1,0 +1,270 @@
+1
+
+10:05
+Curso C++. ¿Por qué aprender C++? Vídeo 1
+pildorasinformaticas
+
+2
+
+13:02
+Curso C++. Temario e instalación de editor. Vídeo 2
+pildorasinformaticas
+
+3
+
+20:34
+Curso C++. Compilador y primer programa. Vídeo 3
+pildorasinformaticas
+
+4
+
+13:27
+Curso C++. Compilación. Vídeo 4
+pildorasinformaticas
+
+5
+
+23:13
+Curso C++. Disección del primer programa. Vídeo 5
+pildorasinformaticas
+
+6
+
+24:31
+Curso C++. Tipos y variables. Vídeo 6
+pildorasinformaticas
+
+7
+
+20:46
+Curso C++. Declaración e inicialización de variables. Vídeo 7
+pildorasinformaticas
+
+8
+
+19:52
+Curso C++. Ejemplo sencillo con variables. Vídeo 8
+pildorasinformaticas
+
+9
+
+12:30
+Curso C++. Declaración de constantes. Vídeo 9
+pildorasinformaticas
+
+10
+
+25:12
+Curso C++. Ejercicio práctico sencillo. Vídeo 10
+pildorasinformaticas
+
+11
+
+15:51
+Curso C++. Arrays I. Qué son y sintaxis básica. Vídeo 11
+pildorasinformaticas
+
+12
+
+17:40
+Curso C++. Declaración e inicialización de arrays en código. Vídeo 12
+pildorasinformaticas
+
+13
+
+21:39
+Curso C++. Arrays bidimensionales. Vídeo 13
+pildorasinformaticas
+
+14
+
+21:23
+Curso C++. Arrays multidimensionales. Vídeo 14
+pildorasinformaticas
+
+15
+
+19:20
+Curso C++. Vectores I. Vídeo 15
+pildorasinformaticas
+
+16
+
+31:47
+Curso C++. Vectores II. Vídeo 16
+pildorasinformaticas
+
+17
+
+23:36
+Curso C++. Operadores I. Vídeo 17
+pildorasinformaticas
+
+18
+
+16:33
+Curso C++. Operadores II. Vídeo 18
+pildorasinformaticas
+
+19
+
+18:33
+Curso C++. Operadores y condicional IF I. Vídeo 19
+pildorasinformaticas
+
+20
+
+22:27
+Curso C++. Operadores y condicional IF II. Vídeo 20
+pildorasinformaticas
+
+21
+
+13:28
+Curso C++. Operadores y condicional IF III. Vídeo 21
+pildorasinformaticas
+
+22
+
+18:23
+Curso C++. Switch-Case I. Vídeo 22
+pildorasinformaticas
+
+23
+
+14:36
+Curso C++. Switch-Case II. Vídeo 23
+pildorasinformaticas
+
+24
+
+12:49
+Curso C++. Operador ternario. Vídeo 24
+pildorasinformaticas
+
+25
+
+12:32
+Curso C++. Bucles. Vídeo 25
+pildorasinformaticas
+
+26
+
+24:13
+Curso C++. Bucle For. Vídeo 26
+pildorasinformaticas
+
+27
+
+22:14
+Curso C++. Bucle For-Each. Vídeo 27
+pildorasinformaticas
+
+28
+
+25:04
+Curso C++. Bucle While. Vídeo 28
+pildorasinformaticas
+
+29
+
+17:18
+Curso C++. Bucle do-while. Vídeo 29
+pildorasinformaticas
+
+30
+
+24:53
+Curso C++. Instrucciones break y continue. Vídeo 30
+pildorasinformaticas
+
+31
+
+24:19
+Curso C++. Bucles infinitos. Vídeo 31
+pildorasinformaticas
+
+32
+
+22:53
+Curso C++. Bucles anidados I. Vídeo 32
+pildorasinformaticas
+
+33
+
+22:14
+Curso C++. Bucles anidados II. Juego de azar. Vídeo 33
+pildorasinformaticas
+
+34
+
+24:30
+Curso C++. Funciones I. Vídeo 34
+pildorasinformaticas
+
+35
+
+20:27
+Curso C++. Funciones II. Prototipos. Vídeo 35
+pildorasinformaticas
+
+36
+
+23:21
+Curso C++. Funciones III. Paso por valor y por referencia. Vídeo 36
+pildorasinformaticas
+
+37
+
+25:10
+Curso C++. Funciones IV. Parámetros por defecto. Vídeo 37
+pildorasinformaticas
+
+38
+
+20:59
+Curso C++. Funciones V. Sobrecarga de funciones. Vídeo 38
+pildorasinformaticas
+
+39
+
+17:34
+Curso C++. Funciones VI. Funciones inline. Vídeo 39
+pildorasinformaticas
+
+40
+
+18:09
+Curso C++. Funciones VII. Auto return. Vídeo 40
+pildorasinformaticas
+
+41
+
+24:04
+Curso C++. Funciones VIII. Funciones recursivas. Vídeo 41
+pildorasinformaticas
+
+42
+
+11:45
+Curso C++. Punteros I. Vídeo 42
+pildorasinformaticas
+
+43
+
+24:10
+Curso C++. Punteros II. Sintaxis y uso. Vídeo 43
+pildorasinformaticas
+
+44
+
+25:23
+Curso C++. Punteros III. Gestión de la memoria. Vídeo 44
+pildorasinformaticas
+
+45
+
+16:53
+Curso C++. Punteros IV. Arrays y punteros. Aritmética de punteros. Vídeo 45
+pildorasinformaticas
+
